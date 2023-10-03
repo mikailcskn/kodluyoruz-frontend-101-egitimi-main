@@ -18,4 +18,4 @@ gunun saat bilgisi : ${new Date().getHours()}
 kisa isminiz: ${username[0]}.
 `
 
-console.log("Şimdi burada bir değişklik yaptım.",info)
+console.log("AA",info)
