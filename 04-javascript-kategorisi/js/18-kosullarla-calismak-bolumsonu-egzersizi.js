@@ -54,3 +54,4 @@ else {
 }
 
 info.innerHTML = `${textInfo} -> ${examGrade}`
+
